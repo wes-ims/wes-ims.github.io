@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Wesleyan Integrated Microsystems Lab"
 title_separator          : "-"
 name                     : &name "Ved Gund"
 description              : &description "Wesleyan Integrated Microsystems Laboratory (WIMS)"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Ved Gund"
   pronouns         : # example: "she/her"  
-  bio              : "Ved Gund is an assistant professor of design and engineering at Wesleyan University."
+  bio              : "Assistant Professor of Sesign and Engineering at Wesleyan University."
   location         : "Middletown, CT"
   employer         : "Wesleyan University"
-  uri              : # URL
+  uri              : "https://www.wesleyan.edu/about/directory/profile.html?id=vgund"
   email            : "vgund@wesleyan.edu" 
 
   # Academic websites
