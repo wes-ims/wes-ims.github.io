@@ -15,3 +15,4 @@ Education
 * M.S., Electrical Engineering, Stanford University
 * B.S., Electrical Engineering, Stanford University
 
+My full CV is available here.
