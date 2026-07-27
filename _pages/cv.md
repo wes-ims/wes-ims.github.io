@@ -15,4 +15,8 @@ Education
 * M.S., Electrical Engineering, Stanford University
 * B.S., Electrical Engineering, Stanford University
 
-My full CV is available here.
+My full CV is available:
+
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/VedGund2026.pdf" class="btn btn--primary">Download CV as PDF</a>
+</div>
