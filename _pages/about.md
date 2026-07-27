@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 I am an assistant professor in the College of Design and Engineering Studies (CoDES) at Wesleyan University. At Wesleyan, I lead the Wesleyan Integrated Microsystems Laboratory (WIMS).
 
