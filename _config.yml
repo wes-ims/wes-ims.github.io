@@ -201,11 +201,11 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
